@@ -28,7 +28,7 @@ console.log(nombre)
 var nombre = true;
 console.log(nombre)
 
-//tipo de dato duncion
+//tipo de dato funcion
 function funcion(){}
 console.log(typeof funcion);
 
